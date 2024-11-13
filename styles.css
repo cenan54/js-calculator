@@ -3,22 +3,22 @@ body{
     justify-content: center; /*center everything left to right*/
     align-items: center; /* center everything top the bottom*/
     height: 100vh; /*setting viewport 100*/
-    background: rgb(3, 0, 160);
+    background: rgb(94, 8, 152);
 }
 
 .calculator{
-    background-color: rgb(211, 211, 211);
+    background-color: rgb(41, 40, 37);
     padding: 20px;
     border-radius: 10px;
 }
 
 .screen{
     width:224px;
-    background-color: rgb(93, 9, 174);
+    background-color: rgb(255, 255, 255);
     font-size: 40px;
     text-align: end;
     padding: 6px;
-    color: white;
+    color: #000000;
     border-radius: 10px;
     font-family: Helvetica, sans-serif;
 }
@@ -41,11 +41,40 @@ button{
 }
 
 button:hover{
-    background-color: rgb(53, 53, 50);
+    background-color: rgb(255, 255, 255);
+    color: black;
 }
 
 button:active{
-    background-color: rgb(232, 232, 232);
+    background-color: rgb(137, 137, 137);
+}
+
+#equals{
+    background-color: rgb(218,2,2);
+}
+
+#equals:hover{
+    background-color: rgb(198,1,1);
+}
+
+#equals:active{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+    border: 2px solid rgb(255, 0, 0);
+}
+
+#clear{
+    width: 100%;
+    background-color: rgb(252,226,27);
+    font-size: 30px;
     color: black;
-    border: 2px solid rgb(0, 0, 0);
+}
+
+#clear:hover{
+    background-color: rgb(201, 160, 0);
+}
+
+#clear:active{
+    background-color: rgb(124, 108, 36);
+    color: white;
 }
