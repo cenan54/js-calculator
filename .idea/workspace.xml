@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c171446c-3f41-45ec-8e14-5ffd8b221ef4" name="Changes" comment="added css elements for the button and calc screen">
+    <list default="true" id="c171446c-3f41-45ec-8e14-5ffd8b221ef4" name="Changes" comment="completed css colors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731526656893</updated>
       <workItem from="1731526660642" duration="463000" />
-      <workItem from="1731527412292" duration="6099000" />
+      <workItem from="1731527412292" duration="6887000" />
     </task>
     <task id="LOCAL-00001" summary="created html css and js files. added buttons in html">
       <option name="closed" value="true" />
@@ -83,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731534589212</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="completed css colors">
+      <option name="closed" value="true" />
+      <created>1731536634889</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731536634889</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created html css and js files. added buttons in html" />
     <MESSAGE value="added css elements for the button and calc screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="added css elements for the button and calc screen" />
+    <MESSAGE value="completed css colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed css colors" />
   </component>
 </project>
